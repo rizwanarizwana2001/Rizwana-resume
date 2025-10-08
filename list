@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <body>
+        <!--unordered list-->
+<ul type="circle">
+    <li>Animal</li>
+    <li>tiger</li>
+    <li>lion</li>
+    <li>giraffee</li>
+</ul>
+<ul type="square">
+    <li>flowers</li>
+    <li>Rose</li>
+    <li>Lily</li>
+    <li>jasmine</li>
+</ul>
+<!--ordered list-->
+<ol type="I" start="1">
+    <li>animal</li>
+    <li>tiger</li>
+    <li>Lion</li>
+    <li>giraffee</li>
+</ol>
+<ol type="i" start="1">
+    <li>Flowers</li>
+    <li>Rose</li>
+    <li>Lily</li>
+    <li>jasmine</li>
+</ol>
+    </body>
+</head>
+</html>
