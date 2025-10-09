@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<body>
+    <table border="1" cellpadding="20">
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Board university</th>
+                <th>Educational Institution</th>
+                <th>Year Of Pass</th>
+                <th>% of marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>MCA</td>
+                <td>Andra university</td>
+                <td>Dr.B.V.Raju institute of computer education.Bhimavaram</td>
+                <td>2013</td>
+                <td>8.12(CGPA)</td>
+            </tr>
+            <tr>
+                <td>DEGREE</td>
+                <td>Andra university</td>
+                <td>Dr.C.S.N PG & DEGREE College.Bhimavaram</td>
+                <td>2010</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>INTERMEDIATE</td>
+                <td>Board of intermediate</td>
+                <td>Sri Chaithanya junior college.Bhimavaram</td>
+                <td>2007</td>
+                <td>67%</td>
+            </tr>
+            <tr>
+                <td>SSC</td>
+                <td>Board of Secondary Education</td>
+                <td>D.N.R.E.M.H.School.Bhimavaram</td>
+                <td>2005</td>
+                <td>61%</td>  
+            </tr>
+        </tbody>
+    </table>
+</body>
