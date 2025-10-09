@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1>EXTRACURRICULARS</h1>
+        <body>
+            <!--ordered list-->
+            <ol type="I" start="1">
+                <li>Recycling club</li>
+                <li>Gardening club</li>
+                <li>Book club</li>
+            </ol>
+        </body>
+    </head>
+</html>
